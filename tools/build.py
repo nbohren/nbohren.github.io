@@ -55,7 +55,7 @@ page("index.html", "Noah Bohren", "Applied economist and data scientist in Züri
     <p>I hold a PhD in economics from HEC Lausanne, where my thesis on artificial intelligence, information and human behaviour received the BCV Prize 2026. Before the PhD I spent three years building reporting and BI for Mikron&rsquo;s production sites. Today I develop digital products at media-link, and in my own time I build ML Golf, a golf analytics app.</p>
     <p class="contact"><a href="mailto:bohren.noah@gmail.com">bohren.noah@gmail.com</a><a href="docs/CV_Noah_Bohren.pdf">CV (PDF)</a></p>
   </div>
-  <div class="stats" style="margin:0">
+  <div class="stats hero-stats">
     <div class="stat"><div class="num">4,000+</div><div class="lbl">participants in randomized experiments I designed and ran</div></div>
     <div class="stat"><div class="num">5</div><div class="lbl">production sites consolidated into one reporting system at Mikron</div></div>
     <div class="stat"><div class="num">+1.3</div><div class="lbl">handicap, Swiss National Team (Mid-Amateur)</div></div>

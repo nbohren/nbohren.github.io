@@ -116,3 +116,5 @@ footer .inner { max-width: 980px; margin: 0 auto; padding: 22px 24px 40px; font-
   .shots figure:last-child { display: none; }
   main { padding-top: 32px; }
 }
+
+.hero-stats { grid-template-columns: 1fr; margin: 0; }
